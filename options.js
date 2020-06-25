@@ -1,10 +1,10 @@
 // Saves options to chrome.storage
 function save_options() {
-    var radios = document.getElementsByName('font');
-    var font;
-    for (var i = 0, length = radios.length; i < length; i++) {
-        if (radios[i].checked) {
-            font = radios[i].id;
+    let radios = document.getElementsByName('font');
+    let font;
+    for (let radio of radios) {
+        if (radio.checked) {
+            font = radio.id;
             break;
         }
     }
@@ -12,7 +12,7 @@ function save_options() {
         font: font
     }, function() {
         // Update status to let user know options were saved.
-        var status = document.getElementById('status');
+        let status = document.getElementById('status');
         status.textContent = 'Options saved.';
         setTimeout(function() {
             status.textContent = '';
