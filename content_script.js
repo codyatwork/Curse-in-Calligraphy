@@ -1,6 +1,6 @@
 /*Copyright 2019-2020 Tagurit Studios.
-  Email me: codymims2@gmail.com*/
-  const SWEARS = {
+  Email me: mims@hey.com*/
+const SWEARS = {
     REGULAR: ["this", "is", "where", "the", "words", "you", "want", "to", "style", "go"],
     //any word containing a dominant swear will be marked as a swear
     DOMINANT: ["these", "are", "safe", "for", "github"]
