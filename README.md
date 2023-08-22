@@ -2,7 +2,8 @@
 
 Browser extension to put swear words in a calligraphy font.
 
-[![Available in the Chrome Web Store](https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/curse-in-calligraphy/phibbfpngemonhedhaeopnminldbjjfi/)[![Get the Firefox add-on](https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_1.png)](https://addons.mozilla.org/en-US/firefox/addon/curse-in-calligraphy/)
+[![Available in the Chrome Web Store](https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/curse-in-calligraphy/phibbfpngemonhedhaeopnminldbjjfi/)
+<a href="https://addons.mozilla.org/en-US/firefox/addon/curse-in-calligraphy/"><img src="https://blog.mozilla.org/addons/files/2020/04/get-the-addon-fx-apr-2020.svg" height="58" alt="Get the Firefox add-on"></a>
 
 You can download the Safari version of this extension [here](https://drive.google.com/file/d/1onlYP2_eMaFtjASAmYNDmu6YALTKWSdn/view?usp=sharing). It is [unsigned](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) because I currently don't want to pay for an Apple Developer Program membership, so you'll have to [re-enable it every time you launch Safari](https://developer.apple.com/documentation/safariservices/safari_app_extensions/building_a_safari_app_extension#2957925).
 
